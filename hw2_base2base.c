@@ -14,7 +14,7 @@ To compile: gcc hw2_base2base.c -o hw2_base2base -lm
 To run: ./hw2_base2base int_num int_currentbase int_targetbase
         The int_num argument should be the value of a number represented
         in the base given by int_currentbase. The int_targetbase
-        will be the
+        will be the base into which the number gets converted to. 
 */
 /*
 Converts a string representation of a number in its given base to its
